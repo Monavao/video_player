@@ -1,0 +1,9 @@
+.video-size
+{
+	width: 600px;
+}
+
+.vertical
+{
+	-webkit-appearance: slider-horizontal;
+}
